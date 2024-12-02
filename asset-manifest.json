@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/whisper/static/css/main.db3677c8.css",
+    "main.js": "/whisper/static/js/main.cecf5ea0.js",
+    "static/js/174.14710e04.chunk.js": "/whisper/static/js/174.14710e04.chunk.js",
+    "static/js/725.019e1dc3.chunk.js": "/whisper/static/js/725.019e1dc3.chunk.js",
+    "static/js/921.c71d60b0.chunk.js": "/whisper/static/js/921.c71d60b0.chunk.js",
+    "static/media/Symbola.svg": "/whisper/static/media/Symbola.f647c9292a2da02d9ae8.svg",
+    "static/media/Symbola.eot": "/whisper/static/media/Symbola.d25fbd520f6558203fb4.eot",
+    "static/media/Symbola.ttf": "/whisper/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
+    "static/media/Symbola.woff": "/whisper/static/media/Symbola.353fd9bde3c87711f5fc.woff",
+    "static/media/Symbola.woff2": "/whisper/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
+    "index.html": "/whisper/index.html",
+    "main.db3677c8.css.map": "/whisper/static/css/main.db3677c8.css.map",
+    "main.cecf5ea0.js.map": "/whisper/static/js/main.cecf5ea0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3677c8.css",
+    "static/js/main.cecf5ea0.js"
+  ]
+}
