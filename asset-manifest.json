@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WhisperExperiment/static/css/main.5db2feeb.css",
-    "main.js": "/WhisperExperiment/static/js/main.e2859037.js",
+    "main.js": "/WhisperExperiment/static/js/main.61eb5936.js",
     "static/js/174.14710e04.chunk.js": "/WhisperExperiment/static/js/174.14710e04.chunk.js",
     "static/js/725.019e1dc3.chunk.js": "/WhisperExperiment/static/js/725.019e1dc3.chunk.js",
     "static/js/921.c71d60b0.chunk.js": "/WhisperExperiment/static/js/921.c71d60b0.chunk.js",
@@ -12,10 +12,10 @@
     "static/media/Symbola.woff2": "/WhisperExperiment/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/WhisperExperiment/index.html",
     "main.5db2feeb.css.map": "/WhisperExperiment/static/css/main.5db2feeb.css.map",
-    "main.e2859037.js.map": "/WhisperExperiment/static/js/main.e2859037.js.map"
+    "main.61eb5936.js.map": "/WhisperExperiment/static/js/main.61eb5936.js.map"
   },
   "entrypoints": [
     "static/css/main.5db2feeb.css",
-    "static/js/main.e2859037.js"
+    "static/js/main.61eb5936.js"
   ]
 }
